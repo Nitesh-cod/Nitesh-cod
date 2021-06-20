@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nitesh-cod
-- 👀 I’m interested in Criket and coding.
+- 👀 I’m interested in Cricket and coding.
 - 🌱 I’m currently learning full stack web development.
 - 📫 How to reach me instagram id=@ydv_nitesh.
 
